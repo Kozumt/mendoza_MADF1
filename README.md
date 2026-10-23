@@ -1,10 +1,10 @@
 # MADF1 - Flutter Navigation, Forms, and User Input
 ## Student Information
-Full Name:
+Full Name: John David B. Mendoza
 Section:
-Course: Mobile Application Development
+Course: BSIT 36
 ## Repository
-Name: last_name_MADF1
+Name: Mendoza_MADF1
 ## Application
 Student Registration and Profile Management Application
 ## Technologies
